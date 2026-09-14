@@ -1,2 +1,1 @@
-color_interfaz = azul
-  
+color_interfaz verde_combinado
